@@ -13,7 +13,7 @@
  "method": "taxsparrow.gst_india.number_card.number_card.get_pending_e_invoices_count",
  "modified": "2023-08-31 15:33:52.183475",
  "modified_by": "Administrator",
- "module": "TaxSparrow",
+ "module": "GST India",
  "name": "Pending e-Invoices",
  "owner": "Administrator",
  "report_function": "Sum",

@@ -10,7 +10,7 @@
  "icon": "expenses",
  "idx": 0,
  "is_hidden": 0,
- "label": "TaxSparrow",
+ "label": "GST India",
  "links": [
   {
    "hidden": 0,
@@ -179,8 +179,8 @@
  ],
  "modified": "2023-09-06 12:35:16.364094",
  "modified_by": "Administrator",
- "module": "TaxSparrow",
- "name": "TaxSparrow",
+ "module": "GST India",
+ "name": "GST India",
  "number_cards": [
   {
    "label": "Pending e-Waybills",
@@ -250,5 +250,5 @@
    "type": "DocType"
   }
  ],
- "title": "TaxSparrow"
+ "title": "GST India"
 }
