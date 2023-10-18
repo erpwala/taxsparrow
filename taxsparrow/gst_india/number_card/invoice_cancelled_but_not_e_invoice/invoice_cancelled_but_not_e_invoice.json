@@ -11,7 +11,7 @@
  "method": "taxsparrow.gst_india.number_card.number_card.get_active_e_invoice_count_for_cancelled_invoices",
  "modified": "2023-08-01 15:57:20.967751",
  "modified_by": "Administrator",
- "module": "GST India",
+ "module": "TaxSparrow",
  "name": "Invoice Cancelled But Not e-Invoice",
  "owner": "Administrator",
  "report_function": "Sum",
