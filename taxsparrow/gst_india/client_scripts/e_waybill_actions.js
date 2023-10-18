@@ -257,6 +257,13 @@ function show_generate_e_waybill_dialog(frm) {
         $(`
             <div class="alert alert-warning" role="alert">
                 e-Invoice hasn't been generated for this Sales Invoice.
+                <a
+                    href="https://docs.erpnext.com/docs/v14/user/manual/en/regional/india/generating_e_invoice#what-if-we-generate-e-waybill-before-the-e-invoice"
+                    class="alert-link"
+                    target="_blank"
+                >
+                    Learn more
+                </a>
             </div>
         `).prependTo(d.wrapper);
     }

@@ -31,6 +31,7 @@
           <ul class="links">
             <a @click.prevent="showUsage"><li>Review API Usage</li></a>
             <!-- <a href="#"><li>Check API Status</li></a> -->
+            <a href="https://discuss.erpnext.com/c/erpnext/india-compliance/65"><li>Community Forum</li></a>
             <a href="https://github.com/netmanthan/taxsparrow/issues/new"><li>Report a Bug</li></a>
             <a href="mailto:api-support@sparrownova.com"><li>Email Support</li></a>
             <a @click.prevent="logout"><li>Logout</li></a>

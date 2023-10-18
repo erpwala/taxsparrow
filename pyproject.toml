@@ -3,7 +3,7 @@ name = "taxsparrow"
 authors = [
     { name = "Sparrownova", email = "hello@sparrownova.com" }
 ]
-description = "ShopperPrime app to simplify compliance with Indian Rules and Regulations"
+description = "ERPNext app to simplify compliance with Indian Rules and Regulations"
 readme = "README.md"
 dynamic = ["version"]
 dependencies = [

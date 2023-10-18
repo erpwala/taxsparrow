@@ -8,7 +8,7 @@ app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "hello@sparrownova.com"
 app_license = "GNU General Public License (v3)"
-required_apps = ["frappe/shopperprime"]
+required_apps = ["frappe/erpnext"]
 
 before_install = "taxsparrow.patches.check_version_compatibility.execute"
 after_install = "taxsparrow.install.after_install"
@@ -276,7 +276,7 @@ audit_trail_doctypes = [
     "Stock Entry",
     "Stock Reconciliation",
     "Subcontracting Receipt",
-    # Additional  DocTypes that constitute "Books of Account"
+    # Additional ERPNext DocTypes that constitute "Books of Account"
     "POS Invoice",
     # Tax Sparrow DocTypes that make GL Entries
     "Bill of Entry",
