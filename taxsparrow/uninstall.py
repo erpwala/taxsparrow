@@ -10,10 +10,10 @@ from taxsparrow.income_tax_india.uninstall import (
 
 def before_uninstall():
     try:
-        print("Removing Income Tax customizations...")
+        print("Removing TaxSparrow customizations...")
         remove_income_tax()
 
-        print("Removing GST customizations...")
+        print("Removing TaxSparro GST customizations...")
         remove_gst()
 
     except Exception as e:

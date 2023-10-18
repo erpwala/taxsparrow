@@ -861,7 +861,7 @@ def validate_reverse_charge_transaction(doc, method=None):
             " create reverse charge invoice"
         ).format(
             gst_document_link=(
-                '<a href="https://docs.erpnext.com/docs/user/manual/en/regional/india/gst-setup">GST'
+                '<a href="">GST'
                 " Documentation</a>"
             )
         )

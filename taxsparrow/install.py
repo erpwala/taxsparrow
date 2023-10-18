@@ -10,7 +10,7 @@ from taxsparrow.income_tax_india.setup import after_install as setup_income_tax
 
 # list of filenames (without extension) in sequence of execution
 POST_INSTALL_PATCHES = (
-    ## ERPNext
+    ## ShopperPrime
     "setup_custom_fields_for_gst",
     "set_gst_category",
     "update_gst_category",
