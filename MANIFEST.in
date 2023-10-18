@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include taxsparrow *.css
+recursive-include taxsparrow *.csv
+recursive-include taxsparrow *.html
+recursive-include taxsparrow *.ico
+recursive-include taxsparrow *.js
+recursive-include taxsparrow *.json
+recursive-include taxsparrow *.md
+recursive-include taxsparrow *.png
+recursive-include taxsparrow *.py
+recursive-include taxsparrow *.svg
+recursive-include taxsparrow *.txt
+recursive-exclude taxsparrow *.pyc
